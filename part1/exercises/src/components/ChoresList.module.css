@@ -1,7 +1,14 @@
 .choresText {
-   color: black;
+   color: green;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 18px;
+   font-style: italic;
+
 }
 
 .choresHeading {
-   color: black;
+   color: greenyellow;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 18px;
+   font-style: underline;
 }
