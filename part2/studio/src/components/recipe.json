@@ -1,17 +1,17 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Easy Baked Mostaccioli",
+     "author": "Holly Nilsson",
+     "description": "This baked Mostaccioli is an easy pasta dish with a rich meaty sauce topped with cheese and baked until bubbly.",
+     "website": "https://www.spendwithpennies.com/baked-mostaccioli/",
+     "recipeImage": "https://www.spendwithpennies.com/wp-content/uploads/2020/12/FT-Creamy-Baked-Mostaccioli-2-SpendWithPennies-1-290x290.jpg",
+     "authorImage": "https://secure.gravatar.com/avatar/fa4bdeb9d2aa6450536af2064fac2481?s=128&r=g",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "Pasta",
+       "Ground beef",
+       "Marinara sauce",
+       "Onions",
+       "Garlic"
      ]
    }
  ]
