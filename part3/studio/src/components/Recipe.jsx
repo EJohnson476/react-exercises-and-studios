@@ -1,9 +1,9 @@
 import { useState } from 'react';
 
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://www.spendwithpennies.com/author/holly/";
+   let authorPhoto = "https://secure.gravatar.com/avatar/fa4bdeb9d2aa6450536af2064fac2481?s=128&r=g";
+   let authorName = "Holly Nilsson";
 
    return (
       <div>
@@ -17,7 +17,7 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ["Pasta","Ground beef","Marinara sauce","Onions","Garlic"];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
@@ -49,7 +49,7 @@ const RecipeDescription = () => {
 
 const RecipePhoto = () => {
    return (
-      <img src="" alt="" className="imageUpdates"/>
+      <img src="https://www.spendwithpennies.com/wp-content/uploads/2020/12/FT-Creamy-Baked-Mostaccioli-2-SpendWithPennies-1-290x290.jpg" alt="" className="imageUpdates"/>
    );
 }
 
